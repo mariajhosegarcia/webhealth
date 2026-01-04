@@ -164,7 +164,7 @@ Este proyecto está bajo licencia propietaria. Todos los derechos reservados.
 
 ## 📞 Contacto y Soporte
 
-Para soporte técnico o consultas sobre el proyecto, contactar: María García mailto:mariajhosegarcia@gmail.com
+Para soporte técnico o consultas sobre el proyecto, contactar: María García mariajhosegarcia@gmail.com
 
 ---
 
